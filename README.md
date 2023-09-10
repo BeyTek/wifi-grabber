@@ -7,6 +7,7 @@ create account
 create new scenarios webhook + telegrambot transfer
 
 paste link here:
+
 ![image](https://github.com/RealBey/wifi-grabber/assets/85953451/f975d377-39af-41cd-b04b-f49afbafd019)
 
 
